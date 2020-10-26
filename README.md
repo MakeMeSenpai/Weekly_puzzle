@@ -1,0 +1,1 @@
+These are new weekly puzzles posted on @Make_School instagram page, that I decided to solve on my off time. 
