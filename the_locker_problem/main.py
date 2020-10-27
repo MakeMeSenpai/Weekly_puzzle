@@ -14,9 +14,11 @@ students = 1000 # there are 1 thousand students
 # each student has a task
 for student in range(students): 
     # students must search threw every locker
-    for i in range(len(lockers) - 1):
-        # if the student has no remainder
-        if (student + 1) % (i + 1) == 0:
+    for i in range(len(lockers)): 
+        """ i + 1 and student + 1 so that 0 is never divided
+        i is the locker number and must be divided evenly 
+        by the student. Taking modulo to get the correct locker """
+        if  (i + 1) % (student + 1) == 0:
             # check if the locker is opened
             if lockers[i].state == True:
                 # then close it
