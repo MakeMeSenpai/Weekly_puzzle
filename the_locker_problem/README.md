@@ -8,4 +8,4 @@ The fourth student does this to every fourth locker
 ... and so on and so forth
 After the process is complete with the thousandth student, how many lockers are open?
 
-There are 688 open lockers left!
+There are 688 open lockers left
