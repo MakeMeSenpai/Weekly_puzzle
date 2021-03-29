@@ -1,0 +1,3 @@
+You work at a fruit factory. There are 3 crate contains only apples. One crate contains only oranges. The other crate contains both apples and oranges. And each crate is labeled. One reads "apples", one "oranges", and one reads "apples and oranges".But the labeling machine has gone crazy and is now labeling all boxes incorrectly.
+
+If you can only take out and look at just one of the pieces of fruit from just one of the crates, how can you label ALL of the crates correctly?

@@ -1,0 +1,1 @@
+How can I cut a board (3m x 8m) into only two pieces so that they will fill a hole (2m x 12m) exactly?
