@@ -1,4 +1,4 @@
-# there is a 33% chance, but lets make an algorithm to prove this
+# there is a 66.6% chance, we have the wrong bag. but lets make an algorithm to prove this
 from random import randint
 one = 0
 two = 0
@@ -22,3 +22,5 @@ for i in range(10000):
 
 print("Results")
 print("Bag 1:" + str(one),"Bag 2:" + str(two),"Bag 3:" + str(three))
+print("However, because we choose a bag with a white marble, this changes the results")
+print("Wrong Bag:" + str(one), "Correct Bag:" + str(two + three))
